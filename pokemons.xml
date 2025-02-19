@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE pokemons SYSTEM "pokemons.dtd">
+<pokemons>
+	<pokemon>
+		<nombre>Vaporeon</nombre>
+		<tipo>agua</tipo>
+		<nivel>110</nivel>
+		<ataques>
+			<ataque nombreAtaque="Agua Lodosa" poder="20"></ataque>
+			<ataque nombreAtaque="Drenaje Espiral" poder="60"></ataque>
+		</ataques>
+	</pokemon>
+	<pokemon>
+		<nombre>Litten</nombre>
+		<tipo>fuego</tipo>
+		<nivel>70</nivel>
+		<ataques>
+			<ataque nombreAtaque="Mordisco" poder="10"></ataque>
+			<ataque nombreAtaque="Llama" poder="20"></ataque>
+		</ataques>
+	</pokemon>
+</pokemons>
